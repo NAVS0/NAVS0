@@ -1,6 +1,9 @@
 <!-- Header -->
 <h1 align="left"> Hi, I'm Rogel Navarro</h1>
-<h3 align="left"> Front-End & Mobile Developer | Creative Technologist | Game Developer</h3>
+<h3 align="left"> Full Stack Developer | Creative Designer | Game Developer</h3>
+
+---
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhemJtOWZ3bWFycjc4YXpwNGQ2NHVqdjdvdHg0ejVyYnh5Z2VyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eiMn6aBwpkSCffKOG0/giphy.gif"/>
 
 ---
 
