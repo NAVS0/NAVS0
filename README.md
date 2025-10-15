@@ -48,10 +48,10 @@ From **AI-powered smart mirrors** to **interactive games** and **mobile applicat
 
 | Project | Tech Stack | Description |
 |-------------|----------------|----------------|
-| **Smart Mirror AI** | HTML, CSS, JS, Spotify API | Voice-assisted mirror with to-do list & music integration |
+| **Smart Mirror AI** | HTML, CSS, JS, Open Weather Map API | Voice-assisted mirror with to-do list & Weather |
 | **Tourism Website** | React, Tailwind CSS | Modern, grid-based responsive tourism web app |
-| **Expense Tracker App** | React Native, Expo | Track spending with simple modern UI |
-| **Parsu Venture** | 3D Unity Game | Exploration-based adventure game |
+| **Expense Tracker App** | MongoDB, Express, React, Nodejs | Track spending with simple modern UI |
+| **Parsu Venture** | Unity Hub, C#, Blender | Exploration-based adventure game |
 
 ---
 
