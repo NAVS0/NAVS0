@@ -3,7 +3,10 @@
 <h3 align="left"> Full Stack Developer | Creative Designer | Game Developer</h3>
 
 ---
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhemJtOWZ3bWFycjc4YXpwNGQ2NHVqdjdvdHg0ejVyYnh5Z2VyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eiMn6aBwpkSCffKOG0/giphy.gif"/>
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTlhemJtOWZ3bWFycjc4YXpwNGQ2NHVqdjdvdHg0ejVyYnh5Z2VyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eiMn6aBwpkSCffKOG0/giphy.gif" width="330"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY1MndhZHdhbHM1Mzl4NjNnbXFqbnJ4N2h0ZWpjbWw4dDZtNHpxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vBTxCPUwfC6ddBsTbs/giphy.gif" width="100"/>
+</p>
 
 ---
 
